@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word in season: or, an essay to promote good-husbandry in hard and difficult times: being, in part, advice from a gentleman, to his son a tradesman in London. Lately communicated by way of letter</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96914</idno>
+            <idno type="STC">Wing W3547C</idno>
+            <idno type="STC">ESTC R232225</idno>
+            <idno type="EEBO-CITATION">99900162</idno>
+            <idno type="PROQUEST">99900162</idno>
+            <idno type="VID">133382</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133382)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2539:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word in season: or, an essay to promote good-husbandry in hard and difficult times: being, in part, advice from a gentleman, to his son a tradesman in London. Lately communicated by way of letter</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Eliz. Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCVII. [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Working class --  Conduct of life --  Early works to 1800.</term>
+               <term>Youth --  Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133382:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Word in Seaſon:</hi> OR, AN ESSAY To Promote Good-Husbandry IN Hard and Difficult Times: Being, in part, Advice from a Gentleman, to his Son a Tradeſman in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Lately communicated by way of Letter.</hi>
+            </p>
+            <q>Nec quicquam ſapit, qui ſibi non ſapit.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Eliz. Whitlock,</hi> near <hi>Stationers-Hall,</hi> MDCXCVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:133382:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:133382:2"/>
+            <head>
+               <hi>A Word in Seaſon:</hi> OR, An ESSAY to Promote <hi>Good-Husbandry,</hi> &amp;c.</head>
+            <p>THAT great States-man and Lord Trea<g ref="char:EOLhyphen"/>ſurer <hi>Burleigh,</hi> in Queen <hi>Elizabeth's</hi> days, thought fit to give to his Son theſe pru<g ref="char:EOLhyphen"/>dent Precepts following, among others; <hi>viz.</hi> Firſt, (ſays he,) as touching the Go<g ref="char:EOLhyphen"/>vernment of your Houſe; Let your Hoſpitality be mo<g ref="char:EOLhyphen"/>derate, equal to the meaſure of your Eſtate; and be<g ref="char:EOLhyphen"/>ware you ſpend riot above three parts of the four of your Eſtate and Revenue, nor above one third part thereof in your Houſe; for the other two thirds will but defray Extraordinaries, which always ſurmount your Ordinary by much: for otherwiſe you ſhall live like Beggars, in continual Want; and the needy Man can never live happily nor contented, being broke and diſtracted with Worldly Cares.</p>
+            <p>Baniſh Drunkenneſs our of your Houſes, and affect him not that is in love with it; for it is a Vice that impairs the Health, conſumes Wealth, and trans<g ref="char:EOLhyphen"/>forms Man into a Beaſt; a Sin of no ſmall rank, and ordinary ſtation, and that never walks unattended with a train of Miſdemeanors at the heels.</p>
+            <p>
+               <pb n="4" facs="tcp:133382:3"/>
+Beware of Surety ſhip for your beſt Friend: For he that payeth another Man's Debts, goeth the way to leave other Men to pay his, and ſeeketh his own over<g ref="char:EOLhyphen"/>throw.</p>
+            <p>In borrowing of Money, be evermore careful of your Word; for he that hath a care to keep day of Pay<g ref="char:EOLhyphen"/>ment, is Lord Commander (many times) of another Man's Purſe.</p>
+            <p>Strive not to enrich your ſelf by Oppreſſion or Un<g ref="char:EOLhyphen"/>lawful Gain; for a little evil gotten, ſhall not only melt away it ſelf like Dew before the Sun, but likewiſe ſhall conſume with it ſelf alſo that which was more lawfully acquired. How then ſhall it melt away in haſte, when all the whole Lump is corrupted with Injuſtice and Wrong? And alſo, as for ſuch an one, if he die rich, well he may have Mourners to his Grave, but he ſhall be ſure to find few Comforters at his Judgment.</p>
+            <p>Be Studious and Induſtrious in thy Youth; know<g ref="char:EOLhyphen"/>ing that if by thy Labour thou accompliſheſt any thing that is good, the Labour paſſeth away, but the Good remaineth to thy uſe and comfort: and it is leſs pain to be Studious in Youth, than a grief to be Ignorant in thy Age.</p>
+            <p>And as to Society; conſider, that corrupt Company is more infectious than corrupt Air; therefore be ad<g ref="char:EOLhyphen"/>viſed in thy choice.— If the Good keep company with the Good, both are made better; if the Evil with the Evil, both are made worſe: for, according to the Pro<g ref="char:EOLhyphen"/>verb, <hi>Such as the Company is, ſuch is the Man.</hi>
+            </p>
+            <p>Strive to ſubdue thy Appetites and Affections, and forbear what-ever is dear unto thy Body, being any way prejudicial to thy Soul.</p>
+            <p>Live vertuouſly and honeſtly, that thou mayſt die patiently and comfortably: for who lives moſt ver<g ref="char:EOLhyphen"/>tuouſly, will die moſt willingly.</p>
+            <p>
+               <pb n="5" facs="tcp:133382:3"/>
+Afflict not thy Body with too much unneceſſary Phy<g ref="char:EOLhyphen"/>ſick, but furniſh thy Mind with Knowledge, Vertue and Goodneſs; and ſo to be prepared for a time of Affliction, and time of Exerciſe. And ſurely that Man's End ſhall be eaſie and happy, whom Death finds, although with a weak Body, yet with a ſtrong, vertuous and healthful Soul.</p>
+            <p>He is worthy to fall, who tempts himſelf; and therefore ſhun the Occaſions of Evil, and then thou haſt half overcome thy Enemy.</p>
+            <p>Labour to keep a good Conſcience for thy Com<g ref="char:EOLhyphen"/>forter; for he that is disfurniſhed thereof, hath Fear for his Bed-fellow, Care for his Companion, and the Sting of Guilt for his Torment.</p>
+            <p>In all thy attempts, let Honeſty be thy aim; — and forget not in thy Youth to be mindful of thy End: for though the Old Man cannot live long, yet the Young Man may die quickly.</p>
+            <p>Be ſtedfaſt in thy Promiſe, and conſtant in a good Reſolution.</p>
+            <p>Now, as to the Employment of a Soldier; he that ſets up his reſt to live by that Profeſſion (in my opi<g ref="char:EOLhyphen"/>nion) can hardly be an honeſt Man, or a good Chri<g ref="char:EOLhyphen"/>ſtian: for that every War is of it ſelf unjuſt; the good Cauſe may make it lawful. — Beſides, Soldiers in Peace are as Chimneys in Summer, or like Dogs paſt hunting, or as Women when their Beauty is at an end.</p>
+            <p>Unto which, I think, I may not improperly add that famous Saying of the Great Man, Monſieur <hi>Monluc,</hi> Marſhal of <hi>France; viz.</hi> But that the Mercies of God were tranſcendent and unlimitted, we Soldiers, (ſays he,) and Men of Arms and War, could never be ſaved; in regard of our Profaneneſs, and Debaucheries, and Wickedneſs, and of our Rapine, Cruelties and De<g ref="char:EOLhyphen"/>vaſtations which accompany us.</p>
+            <p>
+               <pb n="6" facs="tcp:133382:4"/>
+Another worthy Author tells us; Good-Husbandry may well ſtand with great Honour, as Breadth with Heighth. And I may add, With great Charity to the Poor.</p>
+            <p>Accordingly it is related of that noble Peer of this Kingdom, the Earl of <hi>Darby,</hi> in Queen <hi>Elizabeth's</hi> days, who by his Thriftineſs repaired his Eſtate, yet was famous for his Hoſpitality and Charity; His Houſe was a College of Diſcipline, — and who always fur<g ref="char:EOLhyphen"/>niſh'd the induſtrious Poor with Work and Employ<g ref="char:EOLhyphen"/>ment; who is ſaid, once a Month to look into his Income, and once a Week into his Disburſements, that none ſhould wrong him, nor be wronged by him.</p>
+            <p>As alſo it is related of that worthy Prelate, Biſhop <hi>Mountague,</hi> in King <hi>Charles</hi> the Firſt's Reign; That as Nature had enclined him to Magnificence; ſo his Vertue had enclined him alſo to Frugality.</p>
+            <p>One hath well ſaid, That Frugality is the Left-hand of Fortune, as Diligence is the Right. And the witty <hi>Italian</hi> hath this common Proverb, <hi>That if Frugality be a Vice, it never diſinherited any Man.</hi>
+            </p>
+            <p>But it is worthy of our further Conſideration (I hum<g ref="char:EOLhyphen"/>bly conceive) that old Saying, <hi>Nunquam proſpere ſucce<g ref="char:EOLhyphen"/>dunt res humanae ubi negliguntur Divinae (i. e.)</hi> That worldly Affairs are never long proſperous and ſucceſsful, where God and Religion are neglected. And accor<g ref="char:EOLhyphen"/>dingly in our <hi>Engliſh</hi> Proverb; <hi>That Prayer and Pro<g ref="char:EOLhyphen"/>vinder hinder no work, but rather farther it.</hi> And above all, let us often think of our bleſſed Saviour's words; <hi>That wan ſhall not live by bread alone, but by every word that proceedeth out of the mouth of God,</hi> Mat. 4.4. Deut. 8.3. As alſo of thoſe words of <hi>Solomon,</hi> Prov. 10.22. <hi>The bleſſing of the Lord maketh rich,</hi> (and with this great advantage annexed to it,) <hi>It adds no ſorrow with it.</hi> This therefore is of great advantage to us, and in this lies our Good-Husbandry, even for the things of this life, the bleſſing of the Moſt High upon our Riches, and upon all our Affairs.</p>
+            <p>
+               <pb n="7" facs="tcp:133382:4"/>
+But the higheſt piece of Good-Husbandry conſiſts, doubtleſs, in principally minding the preſent and future Advantage and Welfare of our Souls and Minds, (which is truly our ſelves.) And to inſtruct in this Good-Husbandry was a great and principal end of our bleſſed Saviour's coming into the World, both of his Doctrine and Example: for as he tells us, <hi>Mat.</hi> 16.26. <hi>What will it profit a man to gain the whole world, and to loſe his own ſoul,</hi> &amp;c. And, <hi>Seek the kingdom of God firſt of all</hi> (ſays he) <hi>and his righteouſneſs,</hi> and then we have our Sa<g ref="char:EOLhyphen"/>viour's aſſurance, <hi>that all theſe things of the world ſhall be added to us, Mat.</hi> 6.33. ſo far as his wiſdom thinks fit and convenient for us.</p>
+            <p>Excellent therefore is that advice purſuant to our bleſſed Saviour's aforeſaid, contained in this Latin Verſe; <hi>Omnia ſi perdas, animam ſervare memento; (i.e.)</hi> In the loſs of all that thou haſt, be ſure to ſecure thy Soul, and its eternal Welfare.</p>
+            <p>I ſhall proceed with the Advice of the great and wiſe Heathen Philoſopher <hi>Ariſtotle,</hi> who ſtares that to be the moſt deſerable proportion of all worldly Felicities and Enjoyments, which is moſt conſiſtent with Men's devoting themſelves to the buſineſs of Religion; and that to be either too much, or too little, of Wealth, Honour or Power, <hi>&amp;c.</hi> when Men are hindred in their Meditations on God, or their Worſhipping of him.</p>
+            <p>And no wonder a late Author bewails the Folly and Ill-Husbandry of Men; <hi>viz.</hi> Alas (ſays he) Man would, only live, and cares not to know how to live well. That which a Man ſhould eſpecially and only know, is that which he knoweth leaſt, and cares leaſt to know.</p>
+            <p>Now, why may not I here add, and not improperly alſo, (as a principal piece of <hi>Good-Husbandry,</hi>) That great Vertue of Honeſty and Integrity of Heart and Life, according to that excellent Aphoriſm and wiſe Saying, <hi>Sola honeſta utilia, (i. e.)</hi> Only honeſt things are
+<pb n="8" facs="tcp:133382:5"/>profitable: And more-eſpecially when honeſt <hi>Socrates</hi> uſed to curſe thoſe who ſeparated Profit from Honeſty.</p>
+            <p>
+               <hi>Piety</hi> holdeth (ſaith one) the firſt place in the rank of our Duties: It is the moſt noble Vertue, and con<g ref="char:EOLhyphen"/>cerneth Religion, and the Worſhip of God, and is a thing of great importance; whence it is dangerous, and yet very eaſie to err, and be miſtaken therein.</p>
+            <p>Religion loveth and honoureth God, ſettles a Man in Peace and Reſt, lodgeth in a liberal, free and gene<g ref="char:EOLhyphen"/>rous Soul; but Superſtition (ſaith he) on the contrary, is a frantick Error, (as St. <hi>Auguſtine</hi> ſaith,) It feareth Friends, corrupteth thoſe that love it. It is the diſeaſe of a weak Mind, which being infected therewith, can never be at reſt. And <hi>Varro</hi> ſaith of it thus; Religious Men fear God for Love; and the Superſtitious for Pu<g ref="char:EOLhyphen"/>niſhment.</p>
+            <p>Now, true Religion (ſaith another worthy Author) is in truth the ſtrongeſt exciter to the vertue of Inte<g ref="char:EOLhyphen"/>grity, fixing and engraving it upon the Heart of Man; making ſuch deep impreſſions thereof upon the Soul, that a Man ſhall even preferr Death, to the foregoing of his Duty.</p>
+            <p>And alſo Monſieur <hi>Charron</hi> tells us; That the end and effect of true Religion, is, faithfully to yield all the Honour and Glory unto God, and all the Benefit unto Man. We are to ſerve God with our Heart and Spirit, anſwerable to his Nature. And the moſt accep<g ref="char:EOLhyphen"/>table Sacrifice unto God, is, an innocent Soul, a harm<g ref="char:EOLhyphen"/>leſs Life. A pure Mind is the beſt Service of God: the moſt religious worſhiping him, is, to follow him, to imi<g ref="char:EOLhyphen"/>tate him. Yet nevertheleſs, we are not to contemn and diſdain the Outward Publick Worſhip of God, which muſt be an aſſiſtant to the other. To be brief: We muſt think, ſpeak and deal with God, as if all the World did behold us; we muſt live and converſe with the whole World, as if God ſaw us: and we are not to
+<pb n="9" facs="tcp:133382:5"/>ſeparate Piety from Honeſty; for the one cannot be without the other entire and perfect. Now (ſaith he) here are two Rocks whereof we muſt take heed; for there are ſome who wholly give themſelves to the Worſhip and Service of God, taking no care at all of true Vertue and Honeſty, whereof they have no taſte; a Vice noted as natural to the Jews, who were ſo beſotted with this Outward Devotion, placing their Confidence therein, that they thought themſelves diſcharged of all Duty; yea, they were made more hardy hereby to do any wickedneſs: From whence aroſe that Proverb, <hi>An An<g ref="char:EOLhyphen"/>gel in the Church, and a Devil in the Houſe:</hi> nay, they make Piety a Cover for Impiety: — they alledge their Offices of Devotion, to extenuate or make recompence for their Sin and Iniquity. Others there are quite con<g ref="char:EOLhyphen"/>trary, who make no account but of Vertue and Honeſty, little caring for any thing that belongs to Religion; a fault of many Philoſophers, and which is likewiſe too common among our Atheiſts. Now, the firſt is far more eaſie, and of greater ſhew, and the fault of vul<g ref="char:EOLhyphen"/>gar Spirits. The ſecond is far more difficult and labo<g ref="char:EOLhyphen"/>rious in the performance, of leſs ſhew, and is the fault of the more gallant and generous Spirits. The Pha<g ref="char:EOLhyphen"/>riſees were religious and wicked; and ſome of the Phi<g ref="char:EOLhyphen"/>loſophers were good and vertuous, but yet irreligious. And, alas! may it not be ſaid, What execrable Wicked<g ref="char:EOLhyphen"/>neſs hath Zeal for Religion brought forth? ſo much is God injured and abuſed: For the unjuſteſt War that hath ever been in the world, Religion incontinent hath been brought to ſtake to defend it; according to that Saying, <hi>Tantum Relligio potuit ſuadere malorum; (i. e.)</hi> Nothing but the pretence of Religion, that could have prevailed with Men to have been ſo wicked as they have proved. But he that hath Religion without Ho<g ref="char:EOLhyphen"/>neſty, I will not ſay (ſaith he) that he is more wicked, but far more dangerous than he that hath neither the
+<pb n="10" facs="tcp:133382:6"/>one or the other: Not that Religion teacheth us, nor any way forwards wickedneſs, (as ſome fooliſhly af<g ref="char:EOLhyphen"/>firm;) but the reaſon is, that, having no taſte, nor image or conceit of Honeſty, but by the Imagination; and for the ſervice of Religion; and that thinking that to be an honeſt Man, is no other thing, than to be careful to advance Religion, they believe all things whatſoever, be it Treachery, Sedition, Rebellion, Treaſon, or any other Crimes, to be not only lawful and ſufferable, being covered with Zeal and Care of Religion, but alſo commendable and meritorious; yea, worthy of Cano<g ref="char:EOLhyphen"/>nization, if it ſerve for the progress and advancement of Religion, and the overthrow of their Adverſaries.</p>
+            <p>And the ſaid Mr. <hi>Charron</hi> alſo ſaith; That the fear of a preſent Evil to fall upon us, ſtirs up in us Choler and Courage, which are Paſſions ſtrangely violent, and whol<g ref="char:EOLhyphen"/>ly pervert Reaſon: and beſides; he that hath a meaning to go aſtray, believes every thing as he would have it, and not as it is indeed. Accordingly, heretofore, Dr. <hi>Stil<g ref="char:EOLhyphen"/>lingfleet,</hi> when Dean of St. <hi>Paul</hi>'s, in one of his printed Sermons, tells us; That no Man will ſooner affirm a thing to be falſe, than he that knows it to be againſt his Intereſt to believe it to be true. And even Old <hi>Geofry Chancer</hi> long ſince hath told us; That <hi>Engliſh men,</hi> what they not like, they will never underſtand.</p>
+            <p>But the ſaid worthy Monſieur <hi>Charron</hi> afore men<g ref="char:EOLhyphen"/>tion'd, tells us; That there is in a wiſe and good Man a true Honeſty and a true Piety joined and married to<g ref="char:EOLhyphen"/>gether, and both of them compleat and crowned with the Grace of God, which he will deny to none that ſhall <hi>ask it of him</hi> Mar. 15.11. Mar. 7.11. As St. <hi>Auguſtine</hi> ſaith, <hi>Deus dat ſpiritum ſanctum petentibus eum, (i.e.)</hi> God giveth his Spirit to ſuch as heartily ask it of him.</p>
+            <p>And another telleth us; Man is a ſtrange kind of noxious Animal very miſchievous without Religion and Honeſty: for of all the goods that are in Man, Vertue
+<pb n="11" facs="tcp:133382:6"/>and Honeſty is the firſt and principal, and which doth excel Knowledge and Dexterity; and we cannot but confeſs, that the Will where Vertue and Goodneſs lodgeth, is of all others the moſt excellent: for in truth, Honeſty is a lightning Ray of the Divinity, a ſtream and dependant on the Eternal Law; which is God him<g ref="char:EOLhyphen"/>ſelf and his Will. As nothing can be juſt, which pro<g ref="char:EOLhyphen"/>ceedeth not from Reaſon; ſo true Honeſty is free, manly, generous, pleaſant, chearful, equal, uniform, and conſtant; not altering its pace or gate for the wind, the time, the occaſion.</p>
+            <p>True Honeſty is a right, firm diſpoſition of the Will to follow the counſel of Reaſon: It is an active, valiant, manly and effectual Goodneſs that is required in us; which is an eaſie and conſtant affection towards that which is good, right, juſt, according to Reaſon and Na<g ref="char:EOLhyphen"/>ture. Every Man therefore ſhould be, or deſire to be, an Honeſt Man, becauſe he is a Man; and he that takes no care to be ſuch, is a Monſter, and renounceth him<g ref="char:EOLhyphen"/>ſelt. I would have my honeſt Man (ſaith a Heathen) never to conſent to any thing that is evil; theſe are things inſeparable, (that is to ſay) to be, and to be wil<g ref="char:EOLhyphen"/>ling to be, an Honeſt Man.</p>
+            <p>And alſo that honeſt Heathen <hi>Socrates</hi> tells us; That an honeſt Man may ſuffer evil, but will never do any: for it is not permitted at any time for a Man to leave Vertue and Honeſty, and therefore away with all Injuſtice and Wrong, all Treachery, Diſloyalty, Rebellion and Treaſon. Indeed, all Paſſion of Choler, Envy, Hatred, Avarice, Concupiſcence, and Self-love (ſaith one) is the deadly poyſon of the Judgment. and of all good Underſtanding: and every Man's particular Profit and Intereſt, is the worſt poyſon of true Judgment and Affection.</p>
+            <p>It is a happy thing (ſaith <hi>Plato</hi>) for a Man to go through his private Affairs, without Injuſtice. Perjury and Treachery is, in a certain ſence, more baſe and exe<g ref="char:EOLhyphen"/>crable
+<pb n="12" facs="tcp:133382:7"/>than Atheiſm: for it is a leſs ſin to contemn God' than to mock him. As an honeſt Man never wrongeth any one, ſo I would have an honeſt Man (ſaith he) ne<g ref="char:EOLhyphen"/>ver to conſent to any Evil; for you ſin twice, when you do but humour him that doth evil, which an honeſt Man never doth. And that to do good where there is danger and pain, is the part of an Honeſt Man, and of Vertue and Goodneſs: But there muſt (ſaith Monſieur <hi>Charron</hi>) be, to make my Honeſt Man compleat, the Grace of God, whereby his Honeſty, Goodneſs and Ver<g ref="char:EOLhyphen"/>tue hath life, and is brought forth in his due time, and receiveth its laſt and perfect portraiture. And as there is nothing, doubtleſs, to be preferr'd before bodily Health, but Honeſty, which is the Health of the Soul; ſo alſo it is the beſt Policy and Good-Husbandry, to ſow good and honeſt Actions; for then a Man may expect an harveſt anſwerable; For (as <hi>Socrates</hi> ſaid) the Juſt Man and the Happy Man are all one. And indeed, the ſaid excellent Author aforeſaid, Monſieur <hi>Charron,</hi> further diſcourſeth to us; Honeſty is far more worthy, firm ſtable and amiable than Profit, which in a moment va<g ref="char:EOLhyphen"/>niſheth. And he further ſaith; That Juſtice in general, is the giving to every Man what of right belongeth to him. And that great Philoſopher <hi>Heraclitus</hi> adviſeth us, above all things, to combat Injuſtice and Wrong, and to ſuppreſs it with all our might, as we would do the moſt devouring Fire. And it hath been obſerved, above all, for a Man to wrong and injure the Innocent,) is to wrong God himſelf. And herein eſpecially it is the part of a generous Mind to take part with the weaker Side, and to ſuccour the Afflicted.</p>
+            <p>A late worthy Author tells us; He that will mark it well, ſhall find not only more honeſt People, but alſo thoſe more excellent in all kind of Vertue, among thoſe that know little, than among thoſe who know moſt; and therefore it hath been complained of in the
+<pb n="13" facs="tcp:133382:7"/>world, that ſimple and open Vertue was turned into obſcure and crafty Knowledge; and that in truth, Atheiſm, Error, Sects, and all the troubles of the world, have riſen from the Men of Art and Knowledge, as the wiſe <hi>Seneca</hi> long ſince obſerved and complain'd of? <hi>viz.</hi> That when Men came to be learned, many times, they ceaſed then to be morally honeſt and vertuous. But this, certainly, is from the abuſe of Learning and Knowledge, which are in themſelves a great benefit and advantage to Humane Nature.</p>
+            <p>It was an excellent and noble Character that was given of that great Lawyer and Judge, Sir <hi>John Fineux,</hi> in King <hi>Henry</hi> VIIIth's Reign; That he hated nothing but what was Diſhoneſt, he feared nothing but was Ig<g ref="char:EOLhyphen"/>noble, and loved nothing but what was Juſt.</p>
+            <p>And it is related alſo of that Excellent, Learned and Valiant Knight, Sir <hi>Philip Sidney,</hi> in Queen <hi>Elizabeth's</hi> Reign; That he taught <hi>England</hi> the Majeſty of Honeſt Dealing, and the Intereſt of being Religious; and that he found no Wiſdom without Religion and Honeſty. And it was further ſaid of him; That none was more fearful of doing Evil, and none more reſolved to ſuffer in a juſt Cauſe. For (as it hath been well obſerved) a good Conſcience breeds great Reſolution, and an inno<g ref="char:EOLhyphen"/>cent Soul is impregnable. Accordingly is that Saying of <hi>Horace,</hi> of a Vertuous and Honeſt Man; <hi>Justum &amp; tenacem propoſiti virum,</hi> &amp; <hi>(i. e.)</hi> He is ſuch whom nei<g ref="char:EOLhyphen"/>ther the Madneſs of the People, the He at of the Rabble, calling for an evil thing, nor the Face of a Tyrant me<g ref="char:EOLhyphen"/>nacing and commanding it, can ſhake his vertuous ſted<g ref="char:EOLhyphen"/>faſteſs; who is, I may add, <hi>ſemper idem,</hi> always the ſame honeſt Man, and Hands fixed as a Rock in a tem<g ref="char:EOLhyphen"/>peſtuous Sea. And in truth, Honeſty, Integrity and Fi<g ref="char:EOLhyphen"/>delity was accounted by the wiſe Heathens to be the great Pillars which ſupported the Univerſe, and without which, no Kingdom or Government could poſſibly ſub<g ref="char:EOLhyphen"/>ſiſt;
+<pb n="14" facs="tcp:133382:8"/>and they always looked upon ſuch Perſons who once had abandoned their Honeſty and Fidelity, to be no other but as noxious Animals (as Wolves and Ty<g ref="char:EOLhyphen"/>gers) fit to be hunted out of the World by all Mankind. As alſo it is very wiſely obſerved; That Fidelity and Honeſty was like Life; which when it is once gone and parted from the Body, never returns again. It hath been obſerved alſo; That the firſt commitment of a Wrong, uſually puts a Man upon a thouſand Injuries to ſup<g ref="char:EOLhyphen"/>port that one.</p>
+            <p>And it is further truly obſerved; That Simplicity and Truth is a great and wiſe thing, but Cunning and De<g ref="char:EOLhyphen"/>ceit is mean and fooliſh: As alſo that proverbial Saying truly inſtructs us; <hi>viz. That Froſt and Fraud may hold for a time, but they will both of them have dirty ends.</hi> And accordingly while the little Policy and Tricks of crafty Men expoſe them at laſt to Ruine and Deſtru<g ref="char:EOLhyphen"/>ction, Integrity will be its own Security. No wonder then die wiſe Heathen <hi>Seneca</hi> cries out; <hi>O quantum mali eſt nimium ſubtilitatis! (i. e.)</hi> O what a great evil is too much Subtilty!</p>
+            <p>Now, let all honeſt Men be encouraged; that altho' the world ſhould become ſo much Knave, that it ſhould become a vice to be honeſt; yet (ſaith a worthy Au<g ref="char:EOLhyphen"/>thor) Let us conſider, that he that is entirely and ge<g ref="char:EOLhyphen"/>nuinely honeſt is the Figure and Repreſentation of the Deity, will draw down a protection againſt all the In<g ref="char:EOLhyphen"/>juries of any that ſhall dare to abuſe it. And therefore it was long ſince reſolved on by the wiſe Heathen <hi>An<g ref="char:EOLhyphen"/>tiſthenes;</hi> That it is better with a few good Men to fight againſt an Army of bad, than with ſwarms and ſhoals of bad men to have a few good men his enemies.</p>
+            <p>And let us take a ſhort view of the true and proper Effects of our Holy Chriſtian Religion in the Primitive Times, (as a late worthy Prelate of our Church in<g ref="char:EOLhyphen"/>forms us from <hi>Minutins Felix,</hi>) <hi>viz.</hi> he thus ſpeaks of
+<pb n="15" facs="tcp:133382:8"/>them; He that is careful to preſerve his Innocence, honoureth his Lord: He that obſerves Juſtice in his Dealings, offers a Sacrifice to God; He that abſtains from Fraud, preſents a Peace-offering; and he that re<g ref="char:EOLhyphen"/>lieves his Neighbour, brings an ample Expiation: Theſe are our Sacrifices, and theſe the Solemnity of our Devo<g ref="char:EOLhyphen"/>tion; and with us, he paſſes for the moſt religious Man, that is moſt honeſt. — In ſhort, ſaith he, they knew no other terms of Salvation, but the habitual Practice of Piety and Devotion, of Juſtice and Honeſty, of Mercy and Charity, of Humility and Meekneſs, of Temperance and Sobriety, of Continence and Chaſtity, of Obedience and Subjection to Government, of Unity and peaceable Diſpoſitions among themſelves; but above all of Hea<g ref="char:EOLhyphen"/>venly-mindedneſs and Contempt of the World; and although they made allowance for the Lapſes and Infir<g ref="char:EOLhyphen"/>mities of Humane Nature, yet they look'd upon a Chriſtian that was habitually vicious, as the groſſeſt of contradictions. And now may we not truly cry out and ſay, <hi>Aut non eſt Evangelium, aut nos non ſumus Chri<g ref="char:EOLhyphen"/>ſtiani, (i. e.)</hi> Eith<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s is not the true Deſcription of our Chriſtianity, or <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now in our days are not Chri<g ref="char:EOLhyphen"/>ſtians. Thoſe that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eſt to their own Principles of Chriſtianity, may <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hemſelves with this Conſide<g ref="char:EOLhyphen"/>ration; That Inte<gap reason="illegible" resp="#UOM" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> laſts Power, &amp; Plainneſs ſur<g ref="char:EOLhyphen"/>vives Policy; a noble <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Vertue is laſting. And alſo that Vertue and Integ<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> cannot lie long hid or ſup<g ref="char:EOLhyphen"/>preſt; for the time will come that ſhall raiſe it again, (yea, after it is buried,) and deliver it from the malignity of the Age that oppreſſeth it. Immortal Glory is the ſha<g ref="char:EOLhyphen"/>dow of it, and keeps it company whether we will or no.</p>
+            <p>Honeſty (ſaid <hi>Zeno</hi>) is the chief part of Good; and that an Honeſt Life is the Happy; for that rejoices in the preſent, and fears not the future. And a wor<g ref="char:EOLhyphen"/>thy Chriſtian Author tells us; That Light is not more inſeparable from a Sun-beam, than Peace and Plea<g ref="char:EOLhyphen"/>ſure
+<pb n="16" facs="tcp:133382:9"/>of Soul is from a ſtate of Purity, Integrity, and Ho<g ref="char:EOLhyphen"/>neſty of Mind and Heart; which Chearſulneſs of Heart is their Duty, and which the Pſalmiſt exhorts them to, <hi>Pſal.</hi> 33.1, 2. <hi>Rejoice in the Lord, O ye righteous, for praiſe is comely for the upright:</hi> For, <hi>he loveth righteouſneſs and judgment.</hi> And why may not I here mention that great piece of the Happineſs of Mankind, <hi>Friendſhip,</hi> as an attendent upon <hi>Honeſty;</hi> when, as the wiſe Heathen, <hi>Antiſthenes,</hi> tells us, That Honeſt Men are all Friends? And I heartily pray, that we may all in this Nation be<g ref="char:EOLhyphen"/>come Honeſt Men, that ſo we may be all Friends; which doubtleſs would be our greateſt Happineſs and Welfare.</p>
+            <p>Doubtleſs, there is a great deal of truth in that brief Motto of that Religious Emperor (as <hi>Grotius</hi> calls him) <hi>Matthias; Concordia lumine major, (i.e.)</hi> That Unity and Concord is a greater Bleſſing than Light and Knowledge. And may I not therefore uſe the words of a late worthy Author; What more deſirable thing could it be, to ſee but a few at leaſt to pay that regard to this bleſſing of Friendſhip as it deſerves; and that a few inſtances would certainly be ſome comfort in th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>rable Age wherein we live, when the Vices and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Mankind ſeem to have baniſht it almost qui<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the world.</p>
+            <p>To conclude: What <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>? when Chri<g ref="char:EOLhyphen"/>ſtians in our days come ſo <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Heathens in Inte<g ref="char:EOLhyphen"/>grity and Fidelity, whom <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> come ſhort of Heaven? yea, when the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> even ſinned away all ſenſe of Sin, and loſt the diſtinctions between Good and Evil? It hath been obſerved, That the Eye chat Sin ſhuts, Pain opens. God grant our preſent Sufferings may be medicinable to us, that ſo <hi>our iniquities may not be our ruine.</hi> And doubtleſs, a true and hearty Repentance would be one of the greateſt pieces of <hi>Good-Husbandry</hi> we could pitch upon, and the wiſeſt and beſt way to promote our great Intereſt and Safety. Which God in mercy grant to us. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
